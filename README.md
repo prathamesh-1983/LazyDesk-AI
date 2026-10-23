@@ -28,7 +28,7 @@ The application runs locally with Streamlit and Ollama. A public demo or video s
 
 ## Code
 
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/prathamesh-1983/LazyDesk-AI
 
 **Tech stack:**
 
